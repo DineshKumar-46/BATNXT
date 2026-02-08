@@ -1,2 +1,2 @@
 # BatNXT 🏏
-Next-Generation AI for Cricket Batting Analysis
+BatNXT is an AI-powered cricket analytics platform that aims to automate the analysis of batting techniques. The system processes video input to extract bat orientation and calculates the bat angle using computer vision techniques. Based on predefined angle ranges and classification logic, the model identifies the type of cricket shot played. This project demonstrates the application of machine learning concepts in sports analytics while emphasizing clarity, scalability, and real-world usability. BatNXT also serves as a stepping stone toward advanced features such as real-time feedback, deep learning-based shot recognition, and virtual coaching systems.
