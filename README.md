@@ -32,3 +32,12 @@ Jupyter Notebook – Experimentation and step-by-step implementation
 🔹 Version Control
 
 Git & GitHub – Source code management and project hosting
+
+
+*REQUIREMENTS
+
+opencv-python
+mediapipe
+numpy
+matplotlib
+
