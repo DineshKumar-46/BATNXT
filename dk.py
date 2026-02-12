@@ -1,6 +1,5 @@
 """
 AI Cricket Performance Analyzer
-Author: Dinesh Kumar M
 Description:
 Analyzes cricket batting video and calculates:
 - Bat Angle
@@ -283,4 +282,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
